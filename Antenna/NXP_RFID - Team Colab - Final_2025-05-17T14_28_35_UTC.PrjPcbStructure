@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Antenna.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Antenna.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=RFID.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RFID.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
