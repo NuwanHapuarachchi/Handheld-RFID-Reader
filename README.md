@@ -69,7 +69,7 @@ The system uses a modular approach with three separate 2-layer PCBs: **Antenna**
 | **MCU PCB** | Main processing unit | ATmega32U4, PN5180 interface, ESP8266 communication |
 | **Power PCB** | Power management | BMS, charging circuit, voltage regulation |
 
-![Antenna PCB](images/antenna_pcb.png) ![MCU PCB](images/mcu_pcb.png)
+![Antenna PCB](images/Antenna_Top.png) ![MCU PCB](images/MCU_Top.png)
 
 ## 🏠 Enclosure Design
 
