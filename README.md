@@ -81,7 +81,7 @@ The enclosure and charging cradle were designed in **SolidWorks** for ergonomics
 - **Integrated charging cradle** for convenient storage and charging
 - **Professional finish** suitable for commercial applications
 
-![Model](Images/Full_Model.jpg)   
+![Model](Images/Full_model.jpg)   
 
 ### Database Architecture
 
