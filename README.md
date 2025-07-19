@@ -69,7 +69,7 @@ The system uses a modular approach with three separate 2-layer PCBs: **Antenna**
 | **MCU PCB** | Main processing unit | ATmega32U4, PN5180 interface, ESP8266 communication |
 | **Power PCB** | Power management | BMS, charging circuit, voltage regulation |
 
-![Antenna PCB](images/Antenna_Top.png) ![MCU PCB](images/MCU_Top.png)
+![Antenna PCB](Images/Antenna_Top.png) ![MCU PCB](Images/MCU_Top.png)
 
 ## 🏠 Enclosure Design
 
@@ -81,14 +81,14 @@ The enclosure and charging cradle were designed in **SolidWorks** for ergonomics
 - **Integrated charging cradle** for convenient storage and charging
 - **Professional finish** suitable for commercial applications
 
-![RFID Reader Final Design](images/rfid_reader_final.png) 
-![Charging Cradle](images/charging_cradle.png)
+![RFID Reader Final Design](Images/rfid_reader_final.png) 
+![Charging Cradle](Images/charging_cradle.png)
 
 ### Database Architecture
 
 The backend uses **Supabase**, which provides a PostgreSQL database, authentication, and real-time APIs. The schema is designed to store information about users, readers, tags, and scan events.
 
-![Database Schema](images/database_schema.png)
+![Database Schema](Images/database_schema.png)
 *Database Schema (from Software Report.pdf)*
 
 ### Applications
@@ -103,13 +103,13 @@ The backend uses **Supabase**, which provides a PostgreSQL database, authenticat
 - **Features**: On-the-go data access, real-time monitoring
 - **Platforms**: iOS and Android support
 
-![Web Dashboard](images/web_dashboard.png) ![Mobile Dashboard](images/mobile_dashboard.png)
+![Web Dashboard](Images/web_dashboard.png) ![Mobile Dashboard](Images/mobile_dashboard.png)
 *Application Interfaces (from EDR_Design_Report.pdf)*
 
 ## 📸 Gallery
 
 ### Final Product
-![3D Printed Final Product](images/final_product.png)
+![3D Printed Final Product](Images/final_product.png)
 *3D Printed Final Product (from EDR_Design_Report.pdf)*
 
 ## 🚀 Installation
