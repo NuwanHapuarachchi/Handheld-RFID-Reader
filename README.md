@@ -69,7 +69,7 @@ The system uses a modular approach with three separate 2-layer PCBs: **Antenna**
 | **MCU PCB** | Main processing unit | ATmega32U4, PN5180 interface, ESP8266 communication |
 | **Power PCB** | Power management | BMS, charging circuit, voltage regulation |
 
-![Antenna PCB](Images/Antenna_Top.png) ![MCU PCB](Images/MCU_Top.png)
+![Antenna PCB](Images/Antenna-Top.png) ![MCU PCB](Images/MCU_Top.png)
 
 ## 🏠 Enclosure Design
 
@@ -81,8 +81,9 @@ The enclosure and charging cradle were designed in **SolidWorks** for ergonomics
 - **Integrated charging cradle** for convenient storage and charging
 - **Professional finish** suitable for commercial applications
 
-![RFID Reader Final Design](Images/rfid_reader_final.png) 
-![Charging Cradle](Images/charging_cradle.png)
+![Model](Images/Full_Model.png) 
+![Charging Cradle](Images/Cradle.png)
+![RFID Reader Final Design](Images/Final.png)
 
 ### Database Architecture
 
