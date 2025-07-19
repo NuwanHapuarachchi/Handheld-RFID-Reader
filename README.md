@@ -30,12 +30,6 @@ This repository contains the complete design files, firmware, software, and docu
   - A cross-platform Mobile Application (Flutter) for on-the-go data access and monitoring
 - **Centralized Database**: Utilizes Supabase (PostgreSQL) for robust, scalable, and secure data storage with row-level security policies
 
-### 🏗️ System Architecture
-
-The system is designed around a central microcontroller (ATmega32U4) that interfaces with the RFID frontend (PN5180) and the Wi-Fi module (ESP8266). Data is sent to a cloud database and can be accessed via web and mobile applications.
-
-![System Architecture](images/system_architecture.png)
-
 ### 🛠️ Hardware Design
 
 ### Key Components
