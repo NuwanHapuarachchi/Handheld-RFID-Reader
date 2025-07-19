@@ -81,14 +81,15 @@ The enclosure and charging cradle were designed in **SolidWorks** for ergonomics
 - **Integrated charging cradle** for convenient storage and charging
 - **Professional finish** suitable for commercial applications
 
-![Model](Images/Full_Model.jpg) ![Charging Cradle](Images/Cradle.jpg) ![RFID Reader Final Design](Images/Full_model.jpg)
+![Model](Images/Full_Model.jpg)  
+![Charging Cradle](Images/Cradle.jpg)  
+![RFID Reader Final Design](Images/Full_model.jpg)  
 
 ### Database Architecture
 
 The backend uses **Supabase**, which provides a PostgreSQL database, authentication, and real-time APIs. The schema is designed to store information about users, readers, tags, and scan events.
 
 ![Database Schema](Images/Schema.png)
-*Database Schema (from Software Report.pdf)*
 
 ### Applications
 
